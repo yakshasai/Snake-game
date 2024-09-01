@@ -1,0 +1,13 @@
+Getting Started
+Follow these instructions to set up and run the Snake game on your local machine.
+
+Prerequisites
+Python: Ensure Python is installed on your system. You can download it from python.org.
+Pygame: This game uses the Pygame library for graphical display.
+
+Install Dependencies:
+Ensure you have Pygame installed. You can install it using pip: "pip install pygame".
+
+Run the Game:
+Execute the following command to start the game: "python snake_game.py".
+Use the arrow keys to control the snake.
